@@ -1,5 +1,4 @@
 About the data:
-Innovative technology called TextOCR uses sophisticated models to identify text in natural photos, including ones with asymmetrical shapes. 
-
+Innovative technology called TextOCR uses sophisticated models to identify text in natural photos, including ones with asymmetrical shapes. With over a million carefully annotated words on TextVQA images at its disposal, TextOCR enables smooth end-to-end reasoning. This priceless tool makes it easier to create complex apps, such as improved image captioning and visual question answering. TextOCR's capabilities are enhanced by the large dataset, which makes it a valuable resource for researchers and experts in the fields of computer vision and natural language processing.
 The link to the data is here:
 https://www.kaggle.com/datasets/robikscube/textocr-text-extraction-from-images-dataset/data
